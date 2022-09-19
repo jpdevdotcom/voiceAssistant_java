@@ -1,0 +1,25 @@
+hi
+open chrome
+close chrome
+open youtube
+close youtube
+open instagram
+close instagram
+open facebook
+close facebook
+open word
+close word
+open edge
+close edge
+open excel
+close excel
+open powerpoint
+close powerpoint
+open notepad
+close notepad
+open control panel
+close control panel
+open calculator
+close calculator
+open player
+close player
